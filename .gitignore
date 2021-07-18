@@ -1,2 +1,3 @@
 model
 *.hpp
+.ipynb_checkpoints

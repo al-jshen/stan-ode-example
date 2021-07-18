@@ -1,0 +1,7 @@
+numpy
+matplotlib
+scipy
+cmdstanpy
+seaborn
+ipywidgets
+jupyterlab_widgets
