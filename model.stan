@@ -37,7 +37,7 @@ transformed parameters {
 model {
   // priors
   p_beta ~ exponential(1);
-  p_gamma ~ exponential(0.1);
+  p_gamma ~ exponential(10);
   S0 ~ uniform(0., 1.);
 
   // sampling distribution for binomial model

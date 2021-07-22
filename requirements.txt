@@ -3,5 +3,6 @@ matplotlib
 scipy
 cmdstanpy
 seaborn
+tqdm
 ipywidgets
 jupyterlab_widgets
