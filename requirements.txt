@@ -2,6 +2,7 @@ numpy
 matplotlib
 scipy
 cmdstanpy
+arviz
 seaborn
 tqdm
 ipywidgets
